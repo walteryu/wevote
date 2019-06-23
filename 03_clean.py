@@ -1,6 +1,6 @@
 import csv
+import pandas as pd
 import vaderSentiment
-# import pandas as pd
 # import numpy as np
 # import scipy
 # from scipy import stats
@@ -27,3 +27,7 @@ def sentiment_analyzer_scores(sentence):
     print("{:-<40} {}".format(sentence, str(score)))
 
 sentiment_analyzer_scores("The phone is super cool.")
+
+votes = pd.DataFrame.from_csv('./data/mock-data-05.csv', index_col=None)
+
+votes.head()
