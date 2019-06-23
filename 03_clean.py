@@ -15,8 +15,10 @@ plt.rcParams['figure.figsize'] = (15.0, 7.5)
 import statsmodels
 from statsmodels.formula.api import ols
 
-# Image import packages
-from IPython.display import Image
-from IPython.core.display import HTML
+# Reference: NLP tutorial with Python Vader package
+# https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
+
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+analyser = SentimentIntensityAnalyzer()
 
 print('Script done running!')
