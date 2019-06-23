@@ -3,7 +3,8 @@
 ## Prevent Project Delays and Lawsuits in the Public Sector
 
 ![GSWSR](https://github.com/walteryu/wevote/blob/master/images/gswsr_logo.png)
-![WV]()
+
+![WV](https://github.com/walteryu/wevote/blob/master/images/wevo_logo.png)
 
 ### Introduction
 
