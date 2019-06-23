@@ -12,17 +12,18 @@ This repository contains the initial WeVote project which was developed at [Star
 
 The project objectives are as follows:
 
-1. Minimize project delays
+1. Reduce project risk by minimizing project delays and lawsuits
 2. Allow constituents to vote on projects and initiatives
 3. Allow project owners to track voting and sentiment
 
 ### Methodology
 
-This project was developed based on coach feedback and custom development during the event; it pivoted into concept for the following reasons:
+This project was developed based on coach feedback and custom development during the event; it pivoted into this concept for the following reasons:
 
 1. Customers have a pain point with costly project delays and lawsuits
 2. Constituents may not be involved with the civic engagement process
 3. Project owners are required by law to hold public comment periods
+4. Project satisfies multiple portions of the sustainability model
 
 ### Installation
 
