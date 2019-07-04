@@ -35,3 +35,6 @@ Project consists of dashboard visualization created in [Kibana Elasticsearch](ht
 3. Download and install Hot Gloo to edit mock-up; otherwise, follow link to view mock-up
 
 ### Citations
+* [Hot Gloo](https://www.hotgloo.com/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Kibana Elasticsearch](https://www.elastic.co/products/kibana)
